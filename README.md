@@ -1,4 +1,4 @@
-# National Level Exam Analysis - NEET 2024
+# National Level Exam Analysis -  2024
 
 ## Overview
 This project analyzes the **National Level Exam NEET 2024** and its associated data, including:
